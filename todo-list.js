@@ -1,3 +1,4 @@
+// Emil Gasarayev
 let gList2 = [];
 
 if(localStorage.getItem("gList2") !== null){
